@@ -1,5 +1,10 @@
 1. CLAUDE.md instruction (loaded every session automatically):
 
+### Writing Preferences (ALWAYS FOLLOW)
+Always read `MEMORY.md` before helping with any writing tasks. It contains Aiste's email writing preferences — preserve her voice, refine don't rewrite.
+
+
+
 ### Auto-Update Memory (MANDATORY)
 
 **Update memory files AS YOU GO, not at the end.** When you learn something new, update immediately.
